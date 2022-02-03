@@ -20,7 +20,7 @@
 	 ch=a[i];
 	 if(ch=='A'||ch=='a'||ch=='E'||ch=='e'||ch=='I'||ch=='i'||ch=='O'||ch=='o'||ch=='U'||ch=='u')
 	   {
-	     v++;
+	     v++; // you also print that place total number of vowels
 	   }
 	 }
 	 printf("\n\t Total vowel is=%d",v);
