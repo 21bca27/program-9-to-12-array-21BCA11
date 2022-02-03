@@ -23,3 +23,4 @@
 		printf("\nyour entered string is not same");
 	getch();
 }
+// program is nice but give space
